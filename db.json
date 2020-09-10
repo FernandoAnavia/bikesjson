@@ -1,0 +1,22 @@
+{
+  "bikeStationsApp": [
+    {"Id":1, "Name": "smithfield", "Lat": 53.349562, "Lon":-6.278198, "address": "57 Smithfield, Arbour Hill, Dublin, D07 F6HV Arbour Hill Dublin Ireland"},
+  {"Id":2, "Name": "Parnell", "Lat": 53.353462, "Lon":-6.265305, "address": "31/32 Parnell Square West, Arbour Hill, Dublin, D01 YR92 Arbour Hill Dublin Ireland"},
+  {"Id":3, "Name": "Clommel", "Lat": 53.336021, "Lon":-6.26298, "address": "1 Clonmel Street, Cathal Brugha Barracks, Dublin, D02 NX65 Cathal Brugha Barracks Dublin Ireland"},
+  {"Id":4, "Name": "stStephen", "Lat": 53.337917, "Lon":-6.262109, "address": "112-114 Saint Stephen's Green, Cathal Brugha Barracks, Dublin, D02 TD28 Cathal Brugha Barracks Dublin Ireland"},
+  {"Id":5, "Name": "dublinPort", "Lat": 53.351412, "Lon":-6.208771, "address": "Number 2 Branch Road North, Dublin Port, North Dock, North Dock B ED, Dublin 1, Dublin, County Dublin, Leinster, D03 W2T9, Ireland"},
+  {"Id":6, "Name": "howth", "Lat": 53.377656, "Lon":-6.095525, "address": "St Fintan's Crescent, Sutton South, Howth ED, Dublin 13, Fingal, County Dublin, Leinster, D13 TC04, Ireland"},
+  {"Id":7, "Name": "drumcondra", "Lat": 53.367899, "Lon":-6.289875, "address": "Batchelors, Bannow Road, Grangegorman North, Cabra West B ED, Dublin 7, Dublin, County Dublin, Leinster, D07 X9YN, Ireland"},
+  {"Id":8, "Name": "botanicGarden", "Lat": 53.372551, "Lon":-6.271906, "address": "The National Botanic Gardens of Ireland, Botanic Road, Gooseacre, Botanic A ED, Dublin 9, Dublin, County Dublin, Leinster, D09 VY63, Ireland"},
+  {"Id":9, "Name": "phoenixPark", "Lat": 53.355879, "Lon":-6.364817, "address": "Stewarts Care, Mill Lane, Palmerston Lower, Palmerston ED, Dublin 20, South Dublin, County Dublin, Leinster, D20 DC99, Ireland"},
+  {"Id":10, "Name": "drimnagh", "Lat": 53.328786, "Lon":-6.377738, "address": "Western Parkway Motorway, Gallanstown, Clondalkin-Moorfield ED, Dublin 22, South Dublin, County Dublin, Leinster, D12 PK44, Ireland"},
+  {"Id":11, "Name": "dublinCastle", "Lat": 53.338110, "Lon":-6.280268, "address": "Southgate, Cork Street, Merchants Quay C ED, Dublin 8, Dublin, County Dublin, Leinster, D08 XH90, Ireland"},
+  {"Id":12, "Name": "guinnessStoreHouse", "Lat": 53.338110, "Lon":-6.299954, "address": "503, South Circular Road, Goldenbridge North, Ushers F ED, Dublin 8, Dublin, County Dublin, Leinster, D08 EP8E, Ireland"},
+  {"Id":13, "Name": "dublinia", "Lat": 53.338787, "Lon":-6.286749, "address": "St. Catherine's Community Sports Centre, Marrowbone Lane, Ushers C ED, Dublin 8, Dublin, County Dublin, Leinster, D08 X4Y8, Ireland"},
+  {"Id":14, "Name": "clontarf", "Lat": 53.369395, "Lon":-6.227447, "address": "Ardscoil R\u00eds, Malahide Road, Donnycarney, Clontarf West C ED, Dublin 3, Dublin, County Dublin, Leinster, D05 Y4T8, Ireland"},
+  {"Id":15, "Name": "santryPark", "Lat": 53.400127, "Lon":-6.274823, "address": "Knowth Court, Balcurris, Ballymun B ED, Dublin 11, Dublin, County Dublin, Leinster, D09 C8P5, Ireland"},
+  {"Id":16, "Name": "airport", "Lat": 53.424995, "Lon":-6.25639, "address": "West Apron, Old Naul Road, Huntstown, Airport ED, Fingal, County Dublin, Leinster, K67 A5W6, Ireland"},
+  
+  ]
+  }
+   
