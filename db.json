@@ -15,7 +15,7 @@
   {"Id":13, "Name": "dublinia", "Lat": 53.338787, "Lon":-6.286749, "address": "St. Catherine's Community Sports Centre, Marrowbone Lane, Ushers C ED, Dublin 8, Dublin, County Dublin, Leinster, D08 X4Y8, Ireland"},
   {"Id":14, "Name": "clontarf", "Lat": 53.369395, "Lon":-6.227447, "address": "Ardscoil R\u00eds, Malahide Road, Donnycarney, Clontarf West C ED, Dublin 3, Dublin, County Dublin, Leinster, D05 Y4T8, Ireland"},
   {"Id":15, "Name": "santryPark", "Lat": 53.400127, "Lon":-6.274823, "address": "Knowth Court, Balcurris, Ballymun B ED, Dublin 11, Dublin, County Dublin, Leinster, D09 C8P5, Ireland"},
-  {"Id":16, "Name": "airport", "Lat": 53.424995, "Lon":-6.25639, "address": "West Apron, Old Naul Road, Huntstown, Airport ED, Fingal, County Dublin, Leinster, K67 A5W6, Ireland"},
+  {"Id":16, "Name": "airport", "Lat": 53.424995, "Lon":-6.25639, "address": "West Apron, Old Naul Road, Huntstown, Airport ED, Fingal, County Dublin, Leinster, K67 A5W6, Ireland"}
   
   ]
   }
